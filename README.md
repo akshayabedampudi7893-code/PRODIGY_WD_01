@@ -46,20 +46,15 @@ The navigation bar remains fixed while scrolling and changes its appearance when
 | CSS3 | Styling and animations |
 | JavaScript | Scroll interaction |
 
----
 
 ## 📂 Project Structure
 
-```text
 PRODIGY_TASK_01
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-````
-
----
 
 ## 🎯 Task Objective
 
@@ -73,37 +68,32 @@ Create an interactive navigation menu that:
 6. Uses CSS for styling.
 7. Uses JavaScript for interactivity.
 
----
 
 ## 📸 Project Preview
 
 The website contains:
 
-### 🏠 Home
+## 📸 Screenshots
 
-Welcome section with a colorful gradient background.
+🏠 Home Page
 
-### 👤 About
+![Home Page](screenshots/Home.png)
 
-Information about the project and technologies used.
+### 👤 About Section
 
-### 💼 Services
+![About Section](screenshots/About.png)
 
-Interactive cards for:
+### 💼 Services Section
 
-* Web Development
-* UI Design
-* JavaScript
+![Services Section](screenshots/Services.png)
 
-### 📩 Contact
+### 📩 Contact Section
 
-A colorful contact section with navigation back to the top.
-
----
+![Contact Section](screenshots/Contact.png)
 
 ## 👨‍💻 Developed By
 
-**Sanjay**
+**Akshaya**
 
 ### Internship
 
