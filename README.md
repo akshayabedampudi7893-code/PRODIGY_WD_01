@@ -77,19 +77,19 @@ The website contains:
 
 🏠 Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](Home.png)
 
 ### 👤 About Section
 
-![About Section](screenshots/About.png)
+![About Section](About.png)
 
 ### 💼 Services Section
 
-![Services Section](screenshots/Services.png)
+![Services Section](Services.png)
 
 ### 📩 Contact Section
 
-![Contact Section](screenshots/Contact.png)
+![Contact Section](Contact.png)
 
 ## 👨‍💻 Developed By
 
